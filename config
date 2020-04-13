@@ -177,11 +177,11 @@ deploymentConfigurations:
     apiSecurity:
       ssl:
         enabled: false
-      overrideBaseUrl: https://54.185.120.147/api/v1
+      overrideBaseUrl: https://telearmoryawsminnaker1.armory.io/api/v1
     uiSecurity:
       ssl:
         enabled: false
-      overrideBaseUrl: https://54.185.120.147
+      overrideBaseUrl: https://telearmoryawsminnaker1.armory.io
     authn:
       oauth2:
         enabled: false
